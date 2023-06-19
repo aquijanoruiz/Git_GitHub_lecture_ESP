@@ -78,3 +78,13 @@ Date:   Wed Jun 08 18:09:35 2023 +0000
 
     Initial commit
 ```
+
+### Cómo referirse al historial un *commit* específico
+
+Para ver el historial detallado de un *commit*, ejecuta el siguiente comando reemplazando "HASH" con el hash del *commit*:
+
+```hash
+git log HASH
+```
+
+En Git, para referirte a un *commit* específico utilizando su hash, generalmente solo necesitas especificar los primeros caracteres del hash que sean suficientes para identificar de manera única ese *commit*. Por lo general, se recomienda utilizar al menos 7-8 caracteres iniciales para una identificación segura del *commit*.
