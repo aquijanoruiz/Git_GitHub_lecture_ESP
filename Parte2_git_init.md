@@ -17,16 +17,16 @@ A continuación se presentan los pasos para configurar un repositorio de Git loc
 2\. Crea la carpeta donde deseas crear tu repositorio. Puedes utilizar el comando `mkdir` seguido del nombre de la carpeta. Por ejemplo:
 
 ```bash
-mkdir NuevaCarpeta
+mkdir Mis Documentos/nuevo_proyecto
 ```
-Esto creará una nueva carpeta llamada "NuevaCarpeta" en el directorio actual. 
+Esto creará una nueva carpeta llamada "nuevo_proyecto" en el directorio actual. 
 
 Recuerda que para revisar cuál es tu directorio actual en Git Bash, puedes utilizar el comando `pwd`. Al ejecutarlo te mostrará la ruta completa del directorio en el que te encuentras actualmente.
 
 3\. Especifica el directorio actual utilizando el comando `cd` seguido del nombre de la carpeta. Por ejemplo:
 
 ```bash
-cd NuevaCarpeta
+cd Mis Documentos/nombre_proyecto
 ```
 
 4\. Inicia el repositorio ejecutando el siguiente comando:
