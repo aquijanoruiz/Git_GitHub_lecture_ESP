@@ -42,6 +42,7 @@ A continuación se presenta un instructivo de los comandos más básicos de Shel
 8. `echo`: Imprime un mensaje en la salida estándar.
    - Uso: `echo "mensaje"`
    - Ejemplo: `echo "Hola, mundo"` (imprime "Hola, mundo" en la salida estándar)
+   - También podemos crear archivos. Por ejemplo: `echo "41,M,Yes,No,No,No,Often,Yes" >> mental_health_survey.csv`
 
 9. `nano`: Editor de texto en la línea de comandos para crear y editar archivos.
    - Uso: `nano nombre_del_archivo`
