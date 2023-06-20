@@ -35,3 +35,5 @@ git branch -d nombre_rama
 ```
 
 Ten en cuenta que no puedes eliminar el *branch* actual en el que te encuentras. Si deseas eliminar el *branch* actual, primero debes cambiar a otro *branch*.
+
+¡Felicidades! Ya sabes usar Git y GitHub.
