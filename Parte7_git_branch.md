@@ -1,3 +1,5 @@
+# Cómo trabajar con las ramas
+
 ## `git branch`
 
 El comando `git branch` se utiliza en Git para trabajar con ramas (*branches*). Los *branches* son versiones paralelas de un repositorio que permiten desarrollar características o solucionar problemas de forma aislada sin afectar el *branch* principal (generalmente llamado "master" o "main").
