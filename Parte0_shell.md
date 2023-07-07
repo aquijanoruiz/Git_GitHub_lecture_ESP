@@ -53,3 +53,50 @@ A continuación se presenta un instructivo de los comandos más básicos de Shel
     - Ejemplo: `cat archivo.txt` (muestra el contenido del archivo "archivo.txt")
 
 Recuerda que estos son solo algunos de los comandos más básicos de la shell, pero hay muchos más disponibles según tus necesidades específicas. Te recomiendo los cursos de DataCamp [Introduction to Shell](https://app.datacamp.com/learn/courses/introduction-to-shell) e [Introduction to Bash Scripting](https://app.datacamp.com/learn/courses/introduction-to-bash-scripting). ¡Buena suerte en tu camino como científico de datos!
+
+## `echo`
+
+La función `echo` se utiliza en la línea de comandos de Shell para imprimir mensajes en la salida estándar. Puedes usarla para mostrar información, variables, o cualquier otro texto que necesites.
+
+La sintaxis básica es la siguiente:
+
+```bash
+echo "Hola, mundo!"
+```
+
+Esto mostrará en la salida estándar el mensaje "Hola, mundo!".
+
+`echo` también se puede usar para especificar el contenido de una variable. Por ejemplo:
+
+```bash
+nombre="Juan"
+echo "Mi nombre es $nombre"
+```
+
+En este caso, la variable nombre contiene el valor "Juan", y el mensaje impreso será "Mi nombre es Juan".
+
+### `echo` con `>`
+
+La función `echo` en Shell se puede utilizar en combinación con la redirección de salida `>` para crear o modificar archivos. Por ejemplo:
+
+```bash
+echo "Contenido del archivo" > archivo.txt
+```
+
+Este comando creará un archivo llamado "archivo.txt" y escribirá el texto "Contenido del archivo" en él. Si el archivo ya existe, su contenido se sobrescribirá.
+
+Mientras que el operador de redirección `>` sobrescribe el contenido existente del archivo, mientras que `>>` agrega contenido al final del archivo. Por ejemplo:
+
+```bash
+echo "Nuevo contenido" >> archivo.txt
+```
+
+El operador `>>` redirige la salida del comando echo y lo agrega al final del archivo especificado. Si el archivo no existe, se creará.
+
+Finalmente, para crear un archivo con múltiples líneas:
+
+```bash
+echo -e "Línea 1\nLínea 2\nLínea 3" > archivo.txt
+```
+
+La opción `-e` permite interpretar secuencias de escape en el texto. En este caso, se utiliza `\n` para representar una nueva línea y crear un archivo con múltiples líneas de texto.
