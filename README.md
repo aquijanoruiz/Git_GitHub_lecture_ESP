@@ -28,4 +28,4 @@ Esta guía proporciona instrucciones paso a paso sobre cómo utilizar Git y GitH
 
 - **Parte 6: Push y Pull en Git**: Cómo enviar tus cambios locales al repositorio remoto con `git push` y obtener los últimos cambios del repositorio remoto con `git pull`.
 
-
+Este es un cambio.
