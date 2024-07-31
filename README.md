@@ -27,5 +27,3 @@ Esta guía proporciona instrucciones paso a paso sobre cómo utilizar Git y GitH
 - **Parte 5: Conexión Remota con Git**: Configuración y manejo de conexiones remotas utilizando el comando `git remote`, permitiendo la colaboración con otros desarrolladores.
 
 - **Parte 6: Push y Pull en Git**: Cómo enviar tus cambios locales al repositorio remoto con `git push` y obtener los últimos cambios del repositorio remoto con `git pull`.
-
-Este es un cambio.
