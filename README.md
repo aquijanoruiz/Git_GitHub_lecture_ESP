@@ -1,19 +1,21 @@
 # Guía de uso de Git y GitHub
 
-Esta guía proporciona instrucciones paso a paso sobre cómo utilizar Git y GitHub para gestionar proyectos.
+Bienvenidos a este pequeño curso de Git y GitHub para investigación científica. El objetivo de este curso es aprender las herramientas básicas del uso Git y GitHub para gestionar proyectos científicos.
 
 ## Contenido
 
-- [Parte 0: Shell](Parte0_shell.md)
-- [Parte 1: Configuración de Git](Parte1_git_config.md)
-- [Parte 2: Inicialización de Repositorio con Git](Parte2_git_init.md)
-- [Parte 3: Añadir y Confirmar Cambios con Git](Parte3_git_add_commit.md)
-- [Parte 4: Estado y Registro de Cambios en Git](Parte4_git_status_log.md)
-- [Parte 5: Conexión Remota con Git](Parte5_git_remote.md)
-- [Parte 6: Push y Pull en Git](Parte6_git_push_pull.md)
+- [Parte 1: ¿Por qué Git y GitHub?](Parte1_git_github.md)
+- [Parte 2: Introducción al Shell](Parte2_shell.md)
+- [Parte 3: Configuración de Git](Parte3_git_config.md)
+- [Parte 4: Inicialización de Repositorio con Git](Parte4_git_init.md)
+- [Parte 5: Añadir y Confirmar Cambios con Git](Parte5_git_add_commit.md)
+- [Parte 6: Estado y Registro de Cambios en Git](Parte6_git_status_log.md)
+- [Parte 7: Conexión Remota con Git](Parte7_git_remote.md)
+- [Parte 8: Push y Pull en Git](Parte8_git_push_pull.md)
 
 ## Descripción
 
+- 
 - **Parte 0: Shell**: Introducción al entorno de la línea de comandos (Shell) y cómo utilizarlo para trabajar con Git.
 
 - **Parte 1: Configuración de Git**: Configuración inicial de Git, incluyendo el nombre de usuario, dirección de correo electrónico y PAT.

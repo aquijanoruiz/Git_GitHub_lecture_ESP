@@ -68,5 +68,3 @@ Estos bloques de cambios proporcionan información sobre las secciones modificad
 ¿Puedes leer la siguiente salida de `git diff`?
 
 ![](images/git_diff_output.png)
-
-
