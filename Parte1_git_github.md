@@ -22,20 +22,20 @@ Además de las razones anteriores, Git y GitHub ofrecen varias ventajas para la 
 
 * **Seguridad y Control de Acceso:** Controlar quién puede ver y modificar los repositorios, protegiendo datos sensibles y preliminares hasta que se decida compartirlos públicamente.
 
-# Git vs GitHub, ¿cuál es la diferencia?
+## Git vs GitHub, ¿cuál es la diferencia?
 
-## Git
+### Git
 
 Git es un sistema de control de versiones distribuido que permite rastrear y gestionar cambios en el código fuente durante el desarrollo de un proyecto. Este puede ser cualquier proyecto que utilice código, como el desarrollo de un software, una página web o un proyecto de investigación.
 
 Git se utiliza principalmente a través de la línea de comandos (por ejemlo, Shell), aunque también existen interfaces gráficas y herramientas de integración en entornos de desarrollo (IDEs).
 
-## GitHub
+### GitHub
 
 GitHub es una plataforma basada en la web que utiliza Git para proporcionar alojamiento de repositorios de código, así como herramientas adicionales para la colaboración y gestión de proyectos.
 
 GitHub se accede principalmente a través de un navegador web, aunque también se puede interactuar con repositorios alojados en GitHub utilizando Git desde la línea de comandos.
 
-## En resumen...
+### En resumen...
 
 Git es una herramienta de control de versiones que se puede utilizar localmente en cualquier proyecto para gestionar cambios en el código. Por otra parte, GitHub es una plataforma de alojamiento de código que utiliza Git y añade características adicionales para la colaboración y gestión de proyectos en un entorno basado en la web.

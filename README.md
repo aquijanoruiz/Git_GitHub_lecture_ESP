@@ -15,17 +15,18 @@ Bienvenidos a este pequeño curso de Git y GitHub para investigación científic
 
 ## Descripción
 
-- 
-- **Parte 0: Shell**: Introducción al entorno de la línea de comandos (Shell) y cómo utilizarlo para trabajar con Git.
+- **Parte 1: ¿Por qué Git y GitHub?**: Explicación de la importancia de Git y GitHub en la investigación científica
 
-- **Parte 1: Configuración de Git**: Configuración inicial de Git, incluyendo el nombre de usuario, dirección de correo electrónico y PAT.
+- **Parte 2: Introducción al Shell**: Introducción al entorno de la línea de comandos (Shell) y cómo utilizarlo para trabajar con Git.
 
-- **Parte 2: Inicialización de Repositorio con Git**: Cómo iniciar un repositorio local utilizando el comando `git init` y establecer la conexión con un repositorio remoto en GitHub.
+- **Parte 3: Configuración de Git**: Configuración inicial de Git, incluyendo el nombre de usuario, dirección de correo electrónico y PAT.
 
-- **Parte 3: Añadir y Confirmar Cambios con Git**: Explicación detallada sobre cómo añadir archivos al área de preparación (*staging area*) y confirmar los cambios utilizando `git add` y `git commit`.
+- **Parte 4: Inicialización de Repositorio con Git**: Cómo iniciar un repositorio local utilizando el comando `git init` y establecer la conexión con un repositorio remoto en GitHub.
 
-- **Parte 4: Estado y Registro de Cambios en Git**: Cómo verificar el estado de tu repositorio con `git status` y examinar el historial de commits con `git log`.
+- **Parte 5: Añadir y Confirmar Cambios con Git**: Explicación detallada sobre cómo añadir archivos al área de preparación (*staging area*) y confirmar los cambios utilizando `git add` y `git commit`.
 
-- **Parte 5: Conexión Remota con Git**: Configuración y manejo de conexiones remotas utilizando el comando `git remote`, permitiendo la colaboración con otros desarrolladores.
+- **Parte 6: Estado y Registro de Cambios en Git**: Cómo verificar el estado de tu repositorio con `git status` y examinar el historial de commits con `git log`.
 
-- **Parte 6: Push y Pull en Git**: Cómo enviar tus cambios locales al repositorio remoto con `git push` y obtener los últimos cambios del repositorio remoto con `git pull`.
+- **Parte 7: Conexión Remota con Git**: Configuración y manejo de conexiones remotas utilizando el comando `git remote`, permitiendo la colaboración con otros desarrolladores.
+
+- **Parte 8: Push y Pull en Git**: Cómo enviar tus cambios locales al repositorio remoto con `git push` y obtener los últimos cambios del repositorio remoto con `git pull`.
